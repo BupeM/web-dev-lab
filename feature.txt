@@ -1,0 +1,1 @@
+I got familiarized with the basics of web development and learnt the basics of git and github which are to be used for version control. 
